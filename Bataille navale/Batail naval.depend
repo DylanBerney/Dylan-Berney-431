@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1552643776 source:p:\module cpnv 1er (redouble)\ma\3.troisième trimestre\ma-20\batail naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1553250871 source:p:\module cpnv 1er (redouble)\ma\3.troisième trimestre\ma-20\bataille navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1553854350 source:p:\module cpnv 1er (redouble)\ma (emma)\3.troisième trimestre\ma-20\bataille navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
